@@ -1,5 +1,5 @@
 {
-  "globalDisabled": false,
+  "globalDisabled": true,
   "disabledMessage": "This mod has been disabled by the developer",
-  "forceExit": false
+  "forceExit": true
 }

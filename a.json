@@ -1,6 +1,7 @@
 {
-  "globalDisabled": enable,
+  "globalDisabled": true,
   "disabledMessage": "This mod has been disabled by the developer",
-  "forceExit": enable
+  "forceExit": true
 }
+
 
